@@ -2,9 +2,7 @@
 
 # Lab: Using the Azure portals
 
-### Table of Contents
-
-<!--ts-->
+## Table of Contents
 
 - [Overview](#overview)
 
@@ -17,8 +15,6 @@
     - [Task 1: View resource cost and usage in the Azure portal](#Task1-View-resource-cost-and-usage-in-the-Azure-portal)
     - [Task 2: View billing data in the Azure Account Center](#Task-2-View-billing-data-in-the-Azure-Account-Center)
     - [Task 3: Prepare for the next module](#Task-3-Prepare-for-the-next-module)
-
-<!--te--> 
 
 ## Overview: 
 
