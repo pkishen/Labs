@@ -1,7 +1,5 @@
 # Module 1: Getting started with Microsoft Azure
-
 # Lab: Using the Azure portals
-
 ## Table of Contents
 
 [Overview](#overview)
