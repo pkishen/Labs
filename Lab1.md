@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-[Overview:](#overview)
+[Overview](#overview)
 
-[Pre-requisites:](#pre-requisites) 
+[Pre-requisites](#pre-requisites) 
 
 [Exercise 1: Customizing the Azure portal interface](#exercise-1-Customizing-the-Azure-portal-interface)
     [Task 1: Connect to the Azure portal](#Task-1-Connect-to-the-Azure-portal)
@@ -16,7 +16,7 @@
     [Task 2: View billing data in the Azure Account Center](#Task-2-View-billing-data-in-the-Azure-Account-Center)
     [Task 3: Prepare for the next module](#Task-3-Prepare-for-the-next-module)
 
-## Overview: 
+## Overview
 
 The Aim of this lab is about Azure portal interface customization and viewing billing, usage, and quotas data.
 Build, manage, monitor everything from simple to complex. Start now! try popular products free. 25+ products always free. Start with a free credit. Learn by doing. Build your next idea. Types: networking, developer tools, data + analytics, cloud computing, databases.
@@ -37,7 +37,7 @@ After completing this lab, you will be able to:
 
 **Note:** *The lab steps for this course change frequently due to updates to Microsoft Azure. Microsoft Learning updates the lab steps frequently, so they are not available in this manual. Your instructor will provide you with the lab documentation.*
 
-## Pre-requisites:
+## Pre-requisites
 
 *	Azure portal subscription with super admin access.
 *	Virtual Machine (Windows Installed)
