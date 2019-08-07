@@ -57,13 +57,9 @@ The main tasks for this exercise are as follows:
 
 1. On Virtual Machine, open Chrome, and then browse to the Azure portal located at [http://portal.azure.com](http://portal.azure.com).
 
-![](.gitbook/assets/l1.png)
-
 ![image-alt-text](https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG)
 
 1. If you receive a prompt, sign in by using the Microsoft account that is the Account Administrator of your Azure subscription.
-
-![](.gitbook/assets/l2.png)
 
 ![image-alt-text](https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG)
 
