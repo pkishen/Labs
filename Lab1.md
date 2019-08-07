@@ -5,13 +5,10 @@
 
 [Pre-requisites](#pre-requisites) 
 
-[Exercise 1: Customizing the Azure portal interface](#exercise-1-Customizing-the-Azure-portal-interface)
-    [Task 1: Connect to the Azure portal](#Task-1-Connect-to-the-Azure-portal)
-    [Task 2: Explore and customize the Azure portal interface](#Task-2-Explore-and-customize-the-Azure-portal-interface)   
-[Exercise 2: Viewing billing, usage, and quotas data](#Exercise-2-Viewing-billing-usage-and-quotas-data)
-    [Task 1: View resource cost and usage in the Azure portal](#Task1-View-resource-cost-and-usage-in-the-Azure-portal)
-    [Task 2: View billing data in the Azure Account Center](#Task-2-View-billing-data-in-the-Azure-Account-Center)
-    [Task 3: Prepare for the next module](#Task-3-Prepare-for-the-next-module)
+[Exercise 1: Customizing the Azure portal interface](#exercise-1-customizing-the-azure-portal-interface)      
+
+[Exercise 2: Viewing billing, usage, and quotas data](#exercise-2-viewing-billing-usage-and-quotas-data)
+ 
 
 ## Overview
 
@@ -63,49 +60,47 @@ The main tasks for this exercise are as follows:
 
 1.	On Virtual Machine, open Chrome, and then browse to the Azure portal located at http://portal.azure.com.
 
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l1.png)
+<img src="https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG" alt="image-alt-text" >
+
  
 2.	If you receive a prompt, sign in by using the Microsoft account that is the Account Administrator of your Azure subscription.
 
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l2.png)
+<img src="https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG" alt="image-alt-text" >
+
  
 ### Task 2: Explore and customize the Azure portal interface
 
 1.	After the Azure portal loads, view the tiles on the dashboard, noting the service health of the Azure datacenters.
 
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l3.png)
+<img src="https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG" alt="image-alt-text" >
  
 2.	Explore different views on the service health blade.
 
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l4.png)
+<img src="https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG" alt="image-alt-text" >
  
 3.	Return to the dashboard.
 
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l5.png)
+<img src="https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG" alt="image-alt-text" >
  
 4.	Expand the hub menu.
 
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l6.png)
+<img src="https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG" alt="image-alt-text" >
  
 5.	On the hub menu, click **+ Create a resource** and, then on the **New** blade, review the list of available options, but do not select any.
 
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l7.png)
+<img src="https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG" alt="image-alt-text" >
  
 6.	Browse to the **Subscriptions** blade, and then pin the entry that represents your subscription to the dashboard.
  
- ![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l8.png)
-
- ![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l9.png)
-
- ![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l10.png)
+<img src="https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG" alt="image-alt-text" >
  
 7.	View the corresponding notification, and then verify that the subscription tile was pinned to the dashboard successfully.
 
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l11.png)
+<img src="https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG" alt="image-alt-text" >
  
 8.	Return to the dashboard, and then verify that a new tile that represents your subscription appears on the dashboard.
  
- ![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l12.png)
+<img src="https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG" alt="image-alt-text" >
 
 9.	Leave open the Chrome window that shows the Azure portal.
 
@@ -129,60 +124,18 @@ The main tasks for this exercise are as follows:
 
 1.	In the Chrome window that displays the Azure portal, navigate to the blade that represents your subscription.
  
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l13.png)
+<img src="https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG" alt="image-alt-text" >
 
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l14.png)
 
 2.	In the blade that shows your subscription, note the pie chart that shows **Cost by resource**. Click the pie chart to display the **Cost by resource** blade, which shows a detailed breakdown of resource costs.
  
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l15.png)
-
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l16.png) 
+<img src="https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG" alt="image-alt-text" >
 
 3.	Navigate to the **Usage + quotas** blade of your subscription.
 
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l17.png)
+<img src="https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG" alt="image-alt-text" >
  
 4.	Note the current usage and quotas for different types of resources.
 
 **Note:** *Because this is the beginning of the course, it is likely that the subscription has not incurred any charges and that does not include any resources. In this case, you will see a message that usage or billing data is not available. You should consider revisiting this interface on the second day of the course. Additionally, keep in mind that this interface will allow you to track cost of resources going forward, so you should review it frequently.*
 
-### Task 2: View billing data in the Azure Account Center
-
-1.	From the Azure portal, navigate to the CSP Account Center.
-
-2.	If you receive a prompt, sign in by using the Microsoft account that is the Service Administrator of your Azure subscription.
- 
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l1.png) 
-
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l2.png)
-
-3.	On the summary page, review the **OVERVIEW** tab and click on the Subscription.
-
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l20.png) 
-
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l21.png)
-
-4.	Switch to the **INVOICES** tab.
- 
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l22.png)
-
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l23.png)
- 
-5.	Click **Download** for the most recent billing period. You have the preview option to see before downloading the file.
-
-6.	Do not download the usage report. To view the report, you must use Microsoft Excel, which is not installed on the lab computer.
-
-7.	Close Chrome.
-
-### Task 3: Prepare for the next module
-
-1.	Unpin the subscription tile from the Azure portal dashboard.
-
-![alt text](https://github.com/sysgain/qloudable-tl-labs/blob/MicrosoftLearnings/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l24.png)
- 
-2.	Close Chrome.
-
-When you are finished with the lab, do not revert the virtual machines. Keep all the VMs running. The VMs in their current state are required for the next module.
-
-**Result:** Once you completed this exercise, you have viewed your Azure subscription billing and usage data successfully.
