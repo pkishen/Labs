@@ -58,7 +58,10 @@ The main tasks for this exercise are as follows:
 ### Task 1: Connect to the Azure portal
 
 1. On Virtual Machine, open Chrome, and then browse to the Azure portal located at [http://portal.azure.com](http://portal.azure.com).
-2. If you receive a prompt, sign in by using the Microsoft account that is the Account Administrator of your Azure subscription.
+
+![](.gitbook/assets/l2.png)
+
+1. If you receive a prompt, sign in by using the Microsoft account that is the Account Administrator of your Azure subscription.
 
 ```text
 apiVersion: v1
