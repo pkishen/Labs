@@ -53,16 +53,6 @@ The main tasks for this exercise are as follows:
 1. Connect to the Azure portal
 2. Explore and customize the Azure portal interface
 
-{% tabs %}
-{% tab title="First Tab" %}
-test 
-{% endtab %}
-
-{% tab title="Second Tab" %}
-test
-{% endtab %}
-{% endtabs %}
-
 ### Task 1: Connect to the Azure portal
 
 1. On Virtual Machine, open Chrome, and then browse to the Azure portal located at [http://portal.azure.com](http://portal.azure.com).
