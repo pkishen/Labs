@@ -53,13 +53,45 @@ The main tasks for this exercise are as follows:
 1. Connect to the Azure portal
 2. Explore and customize the Azure portal interface
 
+![](.gitbook/assets/l2.png)
+
 ### Task 1: Connect to the Azure portal
 
 1. On Virtual Machine, open Chrome, and then browse to the Azure portal located at [http://portal.azure.com](http://portal.azure.com).
+2. If you receive a prompt, sign in by using the Microsoft account that is the Account Administrator of your Azure subscription.
 
-![image-alt-text](https://raw.githubusercontent.com/sysgain/qloudable-tl-labs/MicrosoftLearnings-fix/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l1.png?token=ACRLA5YF2SSWZ6RY4ZA6WVK5KSIKM)
+```text
+apiVersion: v1
+kind: Pod
+metadata:
+  name: ubuntu
+  labels:
+    app: ubuntu
+spec:
+  containers:
+  - name: ubuntu
+    image: ubuntu:latest
+    command: ["sleep","30d"]
+    volumeMounts:
+    - name: docker
+      mountPath: /var/run/docker.sock
+    - name: dockerlib
+      mountPath: /var/lib/docker
+  volumes:
+  - name: docker
+    hostPath: 
+      path: /var/run/docker.sock
+      type: File
+  volumes:
+  - name: dockerlib
+    hostPath: 
+      path: /var/lib/docker
+      type: File
+```
 
-1. If you receive a prompt, sign in by using the Microsoft account that is the Account Administrator of your Azure subscription.
+```text
+<img src="https://raw.githubusercontent.com/sysgain/qloudable-tl-labs/MicrosoftLearnings-fix/AZ-900%20MicrosoftAzureFundamentals/Images/Lab1/l1.png?token=ACRLA5YF2SSWZ6RY4ZA6WVK5KSIKM" alt="image-alt-text" >
+```
 
 ![image-alt-text](https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/qloudable/OCI_Quick_Start/img/RESERVEDIP_HOL001.PNG)
 
