@@ -52,7 +52,9 @@ test test test
 * **Tenant Name:** {{Cloud Tenant}}
 * **User Name:** {{User Name}}
 * **Password:** {{Password}}
-* **Compartment:**{{Compartment}}
+* **Compartment:** {{Compartment}}
+
+test
 
 Kubernetesは、宣言的な構成管理と自動化を促進し、コンテナ化されたワークロードやサービスを管理するための、ポータブルで拡張性のあるオープンソースプラットホームです。
 
