@@ -53,3 +53,9 @@ test test test
 * **User Name:** {{User Name}}
 * **Password:** {{Password}}
 * **Compartment:**{{Compartment}}
+
+Kubernetesは、宣言的な構成管理と自動化を促進し、コンテナ化されたワークロードやサービスを管理するための、ポータブルで拡張性のあるオープンソースプラットホームです。
+
+Kubernetesは膨大で、急速に成長しているエコシステムを備えており、それらのサービス、サポート、ツールは幅広い形で利用可能です。
+
+Googleは2014年にKubernetesプロジェクトをオープンソース化しました。KubernetesはGoogleが大規模な本番ワークロードを動かしてきた10年半の経験と、コミュニティから得られた最善のアイデア、知見に基づいています。
