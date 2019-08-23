@@ -8,21 +8,6 @@
 
 [Sign in to OCI Console and create a VCN](#sign-in-to-oci-console-and-create-a-vcn)
 
-[Install OCI CLI in your enivornment](#install-oci-cli-in-your-enivornment)
-
-[Create Kubernetes Cluster](#create-kubernetes-cluster)
-
-[Install Kubectl, OCI CLI and configure OCI CLI](#install-kubectl,-oci-cli-and-configure-oci-cli)
-
-[Download get-kubeconfig.sh file and Initialize your environment](#download-get-kubeconfig.sh-file-and-initialize-your-environment)
-
-[Starting the Kubernetes Dashboard](#starting-the-kubernetes-dashboard)
-
-[Deploying a Sample Nginx App on Cluster Using kubectl](#deploying-a-sample-nginx-app-on-cluster-using-kubectl)
-
-[Delete the resources](#delete-the-resources)
-
-
 ## Overview
 
 Kubernetesは、宣言的な構成管理と自動化を促進し、コンテナ化されたワークロードやサービスを管理するための、ポータブルで拡張性のあるオープンソースプラットホームです。
@@ -72,3 +57,24 @@ Googleは2014年にKubernetesプロジェクトをオープンソース化しま
 * **User Name:** {{User Name}}
 * **Password:** {{Password}}
 * **Compartment:**{{Compartment}}
+
+Kubernetesは、宣言的な構成管理と自動化を促進し、コンテナ化されたワークロードやサービスを管理するための、ポータブルで拡張性のあるオープンソースプラットホームです。
+
+Kubernetesは膨大で、急速に成長しているエコシステムを備えており、それらのサービス、サポート、ツールは幅広い形で利用可能です。
+
+Googleは2014年にKubernetesプロジェクトをオープンソース化しました。KubernetesはGoogleが大規模な本番ワークロードを動かしてきた10年半の経験と、コミュニティから得られた最善のアイデア、知見に基づいています。
+
+
+Kubernetesは、宣言的な構成管理と自動化を促進し、コンテナ化されたワークロードやサービスを管理するための、ポータブルで拡張性のあるオープンソースプラットホームです。
+
+Kubernetesは膨大で、急速に成長しているエコシステムを備えており、それらのサービス、サポート、ツールは幅広い形で利用可能です。
+
+Googleは2014年にKubernetesプロジェクトをオープンソース化しました。KubernetesはGoogleが大規模な本番ワークロードを動かしてきた10年半の経験と、コミュニティから得られた最善のアイデア、知見に基づいています。
+
+
+Kubernetesは、宣言的な構成管理と自動化を促進し、コンテナ化されたワークロードやサービスを管理するための、ポータブルで拡張性のあるオープンソースプラットホームです。
+
+Kubernetesは膨大で、急速に成長しているエコシステムを備えており、それらのサービス、サポート、ツールは幅広い形で利用可能です。
+
+Googleは2014年にKubernetesプロジェクトをオープンソース化しました。KubernetesはGoogleが大規模な本番ワークロードを動かしてきた10年半の経験と、コミュニティから得られた最善のアイデア、知見に基づいています。
+
