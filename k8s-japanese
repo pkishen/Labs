@@ -25,7 +25,11 @@
 
 ## Overview
 
-Oracle Cloud Infrastructure Container Engine for Kubernetes is a fully-managed, scalable, and highly available service that you can use to deploy your containerized applications to the cloud. Use Container Engine for Kubernetes (sometimes abbreviated to just OKE) when your development team wants to reliably build, deploy, and manage cloud-native applications. You specify the compute resources that your applications require, and Container Engine for Kubernetes provisions them on Oracle Cloud Infrastructure in an existing OCI tenancy.
+Kubernetesは、宣言的な構成管理と自動化を促進し、コンテナ化されたワークロードやサービスを管理するための、ポータブルで拡張性のあるオープンソースプラットホームです。
+
+Kubernetesは膨大で、急速に成長しているエコシステムを備えており、それらのサービス、サポート、ツールは幅広い形で利用可能です。
+
+Googleは2014年にKubernetesプロジェクトをオープンソース化しました。KubernetesはGoogleが大規模な本番ワークロードを動かしてきた10年半の経験と、コミュニティから得られた最善のアイデア、知見に基づいています。
 
 **Some Key points;**
 
