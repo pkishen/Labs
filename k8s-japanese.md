@@ -101,4 +101,4 @@ Kubernetes es una plataforma portable y extensible de código abierto para admin
 
 Google liberó el proyecto Kubernetes en el año 2014. Kubernetes se basa en la experiencia de Google corriendo aplicaciones en producción a gran escala por década y media, junto a las mejores ideas y prácticas de la comunidad.
 
-
+https://www.datocms-assets.com/2885/1568037655-1567721088-terraform-overview-hero-cli.mp4
